@@ -1,11 +1,3 @@
-"""
-Simple Calculator
-A basic Python calculator that performs addition, subtraction,
-multiplication, and division based on user input.
-
-Internship: CodSoft
-"""
-
 def calculator():
     print("=== Simple Calculator ===")
     print("Operations: +, -, *, /")
